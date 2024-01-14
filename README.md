@@ -38,7 +38,7 @@
   <details>
   <summary>(01/14/2024) <b>Implementing an enemy and the player's attack.</b></summary><br>
     
-  https://github.com/HenriqueCacerez/template-topdown-2D-UE5/assets/110671999/30c4b607-ce43-4d81-a2ef-b04ed48b4066
+  https://github.com/hnqca/template-topdown-2D-UE5/assets/110671999/c8c0d9aa-8e0c-467e-9e50-49ff63140884
 
   #### **Details:**
 
