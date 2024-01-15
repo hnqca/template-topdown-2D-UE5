@@ -51,7 +51,25 @@
   - Upon dealing damage to the enemy, the player's camera will now shake.
 
   </details>
+
+  <!-- Health Bar and Player Damage -->
+  <details>
+  <summary>(01/15/2024) <b>Health Bar and Player Damage</b></summary><br>
+    
+  https://github.com/hnqca/template-topdown-2D-UE5/assets/110671999/d588f6b3-d250-4a9a-b06f-ad499759634a
+
+  #### **Details:**
+
+  - Implementation of a Health Bar widget that displays the player's health.
+  - In the Health Bar, the current amount of health has been added alongside the player's maximum health.
+  - Addition of an effect on the Health Bar that highlights in yellow the amount of damage received.
+  - Inclusion of a blood effect in full screen and on the ground near the player, indicating that the player has taken some damage.
+
+  </details>
+
 </details>
+</details>
+
 
 ***
 
