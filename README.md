@@ -67,6 +67,21 @@
 
   </details>
 
+  <!-- Coin System -->
+  <details>
+  <summary>(01/16/2024) <b>Coin System</b></summary><br>
+    
+  https://github.com/hnqca/template-topdown-2D-UE5/assets/110671999/3556129b-1835-41f7-9bf3-a5dd21c2e1ef
+
+  #### **Details:**
+
+  - Creation of the coin blueprint class.
+  - Coin "floating" effect on the ground.
+  - Effect upon collecting the coin.
+  - Creation of a widget that will display the amount of coins collected by the player.
+
+  </details>
+
 </details>
 </details>
 
