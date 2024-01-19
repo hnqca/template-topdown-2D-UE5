@@ -23,7 +23,7 @@
 
   <!-- Player Movement --->
   <details>
-  <summary>(01/12/2024) <b>Player Movement.</b></summary><br>
+  <summary>(01/12/24) <b>Player Movement.</b></summary><br>
     
   https://github.com/HenriqueCacerez/template-topdown-2D-UE5/assets/110671999/30c4b607-ce43-4d81-a2ef-b04ed48b4066
 
@@ -36,7 +36,7 @@
 
   <!-- Enemy and Player Attack -->
   <details>
-  <summary>(01/14/2024) <b>Implementing an enemy and the player's attack.</b></summary><br>
+  <summary>(01/14/24) <b>Implementing an enemy and the player's attack.</b></summary><br>
     
   https://github.com/hnqca/template-topdown-2D-UE5/assets/110671999/c8c0d9aa-8e0c-467e-9e50-49ff63140884
 
@@ -54,7 +54,7 @@
 
   <!-- Health Bar and Player Damage -->
   <details>
-  <summary>(01/15/2024) <b>Health Bar and Player Damage</b></summary><br>
+  <summary>(01/15/24) <b>Health Bar and Player Damage</b></summary><br>
     
   https://github.com/hnqca/template-topdown-2D-UE5/assets/110671999/d588f6b3-d250-4a9a-b06f-ad499759634a
 
@@ -69,7 +69,7 @@
 
   <!-- Coin System -->
   <details>
-  <summary>(01/16/2024) <b>Coin System</b></summary><br>
+  <summary>(01/16/24) <b>Coin System</b></summary><br>
     
   https://github.com/hnqca/template-topdown-2D-UE5/assets/110671999/3556129b-1835-41f7-9bf3-a5dd21c2e1ef
 
@@ -79,6 +79,22 @@
   - Coin "floating" effect on the ground.
   - Effect upon collecting the coin.
   - Creation of a widget that will display the amount of coins collected by the player.
+
+  </details>
+
+  <!-- Sign System and Player Interact -->
+  <details>
+  <summary>(01/19/24) <b>Sign System and Player Interact</b></summary><br>
+    
+  https://github.com/hnqca/template-topdown-2D-UE5/assets/110671999/dbac8f12-f84c-43f4-a5e7-28040c30d6ca
+
+  #### **Details:**
+
+  - Player Interact Input.
+  - Implementation of a new interface that will handle player interactions.
+  - Creation of a new actor "Sign" that will allow the inclusion of text information for players to read when approaching and interacting with the sign.
+  - Creation of a blueprint widget to display the sign text on the player's screen.
+  - Typewriter effect during text display. The [Typewriter effect](https://www.unrealengine.com/marketplace/en-US/product/typewriter-effect) plugin was used for this purpose.
 
   </details>
 
@@ -92,6 +108,7 @@
 
 - [Paper2D](https://docs.unrealengine.com/5.2/en-US/paper-2d-in-unreal-engine)
 - [PaperZD](https://www.unrealengine.com/marketplace/en-US/product/paperzd)
+- [Typewriter effect](https://www.unrealengine.com/marketplace/en-US/product/typewriter-effect)
 - 100% [Blueprints](https://docs.unrealengine.com/5.2/en-US/introduction-to-blueprints-visual-scripting-in-unreal-engine)
 - Unreal Engine [5.2](https://www.unrealengine.com/en-US/blog/unreal-engine-5-2-is-now-available)
 
@@ -108,6 +125,8 @@ Download this project and open it by clicking on the "**BaseTopDown2D.uproject**
 ***
 
 ## Credits:
+
+All the arts for this project were downloaded for free through the [itch.io](https://itch.io) website.
 
 <table>
   <tr>
